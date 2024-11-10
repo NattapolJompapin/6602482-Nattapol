@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Julia+Muiruri!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
-
 <h1 align="center"> Hi, 👋 I'm Julia Muiruri </h1>
 
 <p align="center"> 
